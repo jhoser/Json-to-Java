@@ -1,0 +1,1 @@
+O trabalho foi implementado em C++ com uma estrutura procedural. A escolha foi feita pela nossa maior familiaridade com C. Não confirmamos nem negamos arrependimento pela escolha de linguagem ou de curso de graduação.
